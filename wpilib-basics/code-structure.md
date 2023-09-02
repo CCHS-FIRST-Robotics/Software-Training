@@ -22,3 +22,8 @@ Finally, there will be other files that are "helpers". Their sole purpose is to 
 
 There will also be "util" files. These will be specific to each year's mechanisms. Typically they help with certain math things or are different types of data structures (e.g., Java provides ArrayList, as a "util" class). Last year this included a class to represent the **state** (position and other important things that could change) of the arm, a class for the **kinematics** (finding the position/speed) of the arm, and a **motion profile** (creates a path for the arm to travel that limits its velocity/acceleration). You can look at R2Vector.java and ArmState.java for examples of **data structures** and Kinematics.java, LinearProfile.java, and QuadraticProfile.java for examples of math/physics utils.
 
+### Resources
+
+- [WPILib command-based structure](https://docs.wpilib.org/en/stable/docs/software/commandbased/structuring-command-based-project.html)
+- [WPILib command-based organization](https://docs.wpilib.org/en/stable/docs/software/commandbased/organizing-command-based.html)
+
