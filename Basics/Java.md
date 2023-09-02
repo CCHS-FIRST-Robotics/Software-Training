@@ -3,7 +3,7 @@
 ## “Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible” (Wikipedia)
 
 The majority of our robot code is made in Java, and at least basic familiarity with the language is necessary to contribute to robot code.
-AP CSA (Beckwith's java classes) or the following resources are all great starting points to learn java, and you should be able to pick up a lot of it by working with the robot code.
+AP CSA (Beckwith's java classes) or the following resources are both great starting points to learn java, and you should be able to pick up a lot of it by working with the robot code.
 If you already know another language you might be able to skip this step, but familiarizing yourself with the language is always valuable.
 Feel free to look at the resources below, but none of them are required.
 
