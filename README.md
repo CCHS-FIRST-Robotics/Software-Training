@@ -1,8 +1,6 @@
-# Software-Training
-
 # Robot Software Training Materials
 
-## FRC Team 8033, Highlander Robotics
+## FRC Team 3205, The Patriots
 
 Each link down below corresponds to one "course" in the team training system.
 Each page will have a brief description of the topic and may include links to other resources.
