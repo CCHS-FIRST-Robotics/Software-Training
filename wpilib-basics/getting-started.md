@@ -21,11 +21,6 @@ Many of these libraries will have their own articles here as well as their own d
 
 ### Must read/watch
 
-- [Video by frc team 3847 about electrical components](https://www.youtube.com/watch?v=XHx3JeTk0Qw) OR read through our [reference sheet](ElectronicsCrashCourse.md)
-  - In an ideal world, we never have to touch the electrical system.
-    In reality, often we end up finding problems with electrical early in the season.
-    Therefore it is important to know what we are working with to debug and fix the robot.
-  - In addition, it is important to know about the hardware on the robot that we will be interacting with through software.
 - [Installation guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (NOTE: you cannot run code on a macbook, if you want to test your code you MUST use one of the robotics laptops).
 - Read through [WPILib's zero to robot programming guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html)
   - We will be writing a similar program in the next few weeks.
