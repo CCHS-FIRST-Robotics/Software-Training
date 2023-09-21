@@ -13,7 +13,6 @@ This means that while one person works on code for the autonomous, another could
 
 - [WPILib Git intro](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
 - [Github Git intro](https://docs.github.com/en/get-started/using-git/about-git)
-- _Record quick intro to git vid/talk at some point, talk to kevin or a software lead until then_
 - [Git install](https://gitforwindows.org/)
 
 ### Examples
@@ -31,7 +30,7 @@ This means that while one person works on code for the autonomous, another could
 
 ### Exercises
 
-- Join Highlanders Robotics Github organization by asking Kevin to add your Github account
+- Join CCHS FIRST Robotics Github organization by asking Colin to add your Github account
 - Simple commit
   - Clone this repository from Github
   - Add your name to the list at the bottom of this file
@@ -54,10 +53,4 @@ This means that while one person works on code for the autonomous, another could
 
 ### Names
 
-- Lewy Seiden
-- Petro Papahadjopoluos
-- Sneha Narayan
-- Aliya Vora
-- Athena Li
-- Jerry Yu
-- Nathan Tuan
+- 
