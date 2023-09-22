@@ -21,7 +21,7 @@ Many of these libraries will have their own articles here as well as their own d
 
 ### Must read/watch
 
-- [Installation guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (NOTE: you cannot run code on a macbook, if you want to test your code you MUST use one of the robotics laptops).
+- [Installation guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (NOTE: you cannot deploy robot code on a macbook, if you want to test your code on the robot (not in sim) you MUST use one of the robotics laptops).
 - Read through [WPILib's zero to robot programming guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-4/creating-test-drivetrain-program-cpp-java.html)
   - We will be writing a similar program in the next few weeks.
   - We mostly use CTRE components, so select that tab for the example code.
