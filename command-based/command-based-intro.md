@@ -13,9 +13,7 @@ Because each Subsystem can only be used by one Command at once, we are safe from
 ### Resources
 
 - [WPILib docs](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html).
-  Read through these docs until you finish "The Command Scheduler"
-  OR watch [this video](https://drive.google.com/file/d/1ykFDfXVYk27aHlXYKTAqtj1U2T80Szdj/view?usp=drive_link).
-  Presentation notes for the video are [here](CommandBasedPresentationNotes.md)
+  Read through these docs until you finish "The Command Scheduler".
   The important segment to remember is:
   > Commands represent actions the robot can take. Commands run when scheduled, until they are interrupted or their end condition is met. Commands are very recursively composable: commands can be composed to accomplish more-complicated tasks. See Commands for more info.
   >
