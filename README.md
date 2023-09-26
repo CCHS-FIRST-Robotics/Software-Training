@@ -28,7 +28,7 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 ## WPILib and Robot Code
 
 - [WPILib / Intro to FRC Programming](wpilib-basics/getting-started.md)
-- [Understanding Code Structure](wpilib-basics/getting-started.md)
+- [Understanding Code Structure](wpilib-basics/code-structure.md)
 
 ## Credits
 Stolen (modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
