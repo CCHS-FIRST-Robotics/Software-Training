@@ -33,6 +33,7 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 - [Using Commands in Code](WPILibBasics/UsingCommands.md)
 
 ## (ADVANCED) Controls and Filters
+- [Introduction to Controls](AdvancedControls/ControlsIntro.md)
 
 ## Credits
 Stolen (modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
