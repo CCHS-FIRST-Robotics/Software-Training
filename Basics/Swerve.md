@@ -12,7 +12,7 @@ Swerve has the mobility of a mecanum drive, but the traction and stability of ta
   Gives examples of how some of it functions in code (can be confusing if you don't know what you're looking at)
 - [Swerve Drive Kinematics (advanced)](https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383).
   Gives a derivation of some of the kinematics for swerve drive in a bunch of different scenarios. If you're comfortable with math/physics it might help you understand a bit about how swerve works
-- [Swerve Drive Kinematics (very advanced)](https://www.chiefdelphi.com/t/whitepaper-swerve-drive-skew-and-second-order-kinematics/416964)
+- [Swerve Drive Kinematics (very advanced)](https://www.chiefdelphi.com/t/whitepaper-swerve-drive-skew-and-second-order-kinematics/416964).
   Gives an explanation/derivation of second order kinematics and some of the issues with the first order model. It's interesting, but gets pretty technical.
   
 ### Notes
