@@ -18,7 +18,7 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 
 ## Basics
 
-- *****[Java Basics](Basics/Java.md)
+- ** * **[Java Basics](Basics/Java.md)
 - [What is Swerve?](Basics/Swerve.md)
 
 ## Git
