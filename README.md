@@ -18,23 +18,23 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 
 ## Basics
 
-- [Java Basics](Basics/Java.md)
+- *****[Java Basics](Basics/Java.md)
 - [What is Swerve?](Basics/Swerve.md)
 
 ## Git
 
-- [Git Basics](Basics/BasicGit.md)
-- [Team Git Workflow](Basics/GitWorkflow.md)
+- *****[Git Basics](Basics/BasicGit.md)
+- *****[Team Git Workflow](Basics/GitWorkflow.md)
 
 ## WPILib and Robot Code
 
-- [WPILib / Intro to FRC Programming](WPILibBasics/GettingStarted.md)
+- *****[WPILib / Intro to FRC Programming](WPILibBasics/GettingStarted.md)
 - [Understanding Code Structure](WPILibBasics/CodeStructure.md)
-- [Intro to Command-Based Programming](WPILibBasics/CommandBasedIntro.md)
-- [Using Commands in Code](WPILibBasics/UsingCommands.md)
+- *****[Intro to Command-Based Programming](WPILibBasics/CommandBasedIntro.md)
+- *****[Using Commands in Code](WPILibBasics/UsingCommands.md)
 
 ## (ADVANCED) Controls and Filters
-- [Introduction to Controls](AdvancedControls/ControlsIntro.md)
+- *****[Introduction to Controls](AdvancedControls/ControlsIntro.md)
 
 ## Credits
-Stolen (modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
+*****Stolen (slightly modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
