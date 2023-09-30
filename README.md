@@ -37,4 +37,4 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 - __*__[Introduction to Controls](AdvancedControls/ControlsIntro.md)
 
 ## Credits
-__*__Stolen (slightly modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
+__*__ Stolen (slightly modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
