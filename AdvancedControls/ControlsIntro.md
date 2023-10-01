@@ -10,7 +10,6 @@ You should also tune the interactive models in the pages that have them.
 
 If you're still confused after reading through those articles, that's okay! The articles are somewhat dense.
 It's worth coming back to these explanations again later once you've digested it a little bit.
-Kevin also has a spiel about PID controllers _which we should record and put here_.
 
 Choosing a control strategy is an important takeaway from these articles.
 Generally we have a pretty direct tradeoff between time/effort spent on controls and precision in our output (as well as how fast the mechanism gets to that precise output!)
