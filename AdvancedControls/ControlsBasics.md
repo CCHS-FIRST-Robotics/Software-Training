@@ -34,7 +34,7 @@ We also need to determine what the best path is for the robot to take. Do we wan
 And once again, we need to know how to actually move the robot to the position and follow the path we've set. This is the same problem as controlling a motor to a position, and while we use the same tools, is going to be slightly different in execution.
 
 
-All of these are extremely important and fundamental to getting the robot to do what we want to do. Robots are complex systems that have a lot of moving parts, so it's important to have a robust control system
+All of these are extremely important and fundamental to getting the robot to do what we want to do. Robots are complex systems that have a lot of moving parts, so it's important to have a robust control scheme
 that moves accurately and efficiently.
 
 
