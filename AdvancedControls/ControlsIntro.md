@@ -46,4 +46,4 @@ In general we would like to move away from the hand-tuned approach, as hand tuni
 
 ### Exercises
 
-- Complete all interactive WPILib tutorials and demonstrate tuning one of them to a lead or mentor
+- Complete all interactive WPILib tutorials and demonstrate tuning one of them to a lead (the "solutions" for gains that wpilib gives you are kinda bad in some cases lol)
