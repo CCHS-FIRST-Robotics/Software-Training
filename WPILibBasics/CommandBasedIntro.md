@@ -28,7 +28,7 @@ Because each Subsystem can only be used by one Command at once, we are safe from
 
 ### Exercises
 
-- Make basic KitBot code using the Command-Based skeleton. You can follow [this](KitbotExampleWalkthrough.md) tutorial.
+- TBD
 
 ### Notes
 
