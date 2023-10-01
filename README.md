@@ -40,4 +40,4 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 
 ## Credits
 - Written by Colin Balfour
-- __*__ Stolen (slightly modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
+- (__*__) Stolen (slightly modified) from [8033](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) lol
