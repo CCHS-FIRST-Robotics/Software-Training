@@ -10,7 +10,7 @@ It's a pretty broad and complicated field, so let's get a little more specific. 
     
   otherwise:
   
-    turn the heaters off.
+    turn the heaters off
 
 It's simple but effective. Now let's look at something more common to FRC: controlling a motor. Say we apply this principle to controlling the position of a motor (for example that could mean moving it exactly half a rotation from where it started). If it hasn't yet reached the position we want, turn the motor on, if it has, stop. The issue with this in the case of a motor, is that we need precision. It doesn't quite matter if an oven is at 428 degrees instead of 425, but for a robot, that could mean our arm drops the cone and it completely misses the post. With motors, they don't stop instantaneously. When we reach the position and turn the motor off, it has momentum and will keep moving at the same speed until forces like friction slow it to a stop. This means we'll have gone way past the position we wanted by the time the motor actually stops. 
 
@@ -18,7 +18,8 @@ There are a couple ways you might think off the top of your head to solve this:
   1. What if we just tell it to **move in the opposite direction** once we reach the position?
 
      This would help to mitigate the issue, but how will the motor stop? You have the same issue coming back the other way.
-  2. What if we **turn the motor off before** we reach the position?
+     
+  3. What if we **turn the motor off before** we reach the position?
 
      This is also a good idea, but when do you turn it off? It can take a while for it to slow to a stop due to friction, so is that the most efficient method? 
 
