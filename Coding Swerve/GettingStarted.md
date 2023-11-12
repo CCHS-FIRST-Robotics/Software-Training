@@ -24,6 +24,7 @@ image.png
 - [video on basic/conceptual calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&ab_channel=3Blue1Brown) (+ the ep 2 video after it if you feel like it)
 - [video on linear kinematics/using vectors in practice](https://www.flippingphysics.com/apc-kinematics-review.html)
 - [video on rotational kinematics](https://www.flippingphysics.com/apc-rotational-kinematics-review.html)
+
 I watched through all those videos to make sure they're relevant, and 90% of it I use somewhere in the current swerve code. If you haven't done trig, check out Wikipedia/khanacademy. That's also pretty important, and we work with sin/cos a lot, especially with vectors. 
 
 **6.** Check out the geometry section on wpilib (short), the Swerve Drive Kinematics page on wpilib (short), and this "paper" (short but detailed), which goes into the derivation of the first order (one derivative) inverse kinematics (from chassis kinematics to module kinematics, as opposed to forward kinematics which is module -> chassis) for swerve drive.
