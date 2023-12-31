@@ -29,7 +29,7 @@ I watched through all those videos to make sure they're relevant, and 90% of it 
 
 **6.** Check out the geometry section on wpilib (short), the Swerve Drive Kinematics page on wpilib (short), and this "paper" (short but detailed), which goes into the derivation of the first order (one derivative) inverse kinematics (from chassis kinematics to module kinematics, as opposed to forward kinematics which is module -> chassis) for swerve drive.
 
-**7.** Check out the advanced controls introduction on wpilib; this talks about the problems with controlling motors and how you solve them. Very important, so make sure you understand this section. If you want to learn a bit more, check out this book (written by wpiman himself), it's a very very good resource to go a little more in-depth.
+**7.** Check out the advanced controls introduction on wpilib; this talks about the problems with controlling motors and how you solve them. Very important, so make sure you understand this section. If you want to learn a bit more, check out [this book](https://file.tavsys.net/control/controls-engineering-in-frc.pdf) (written by wpiman himself), it's a very very good resource to go a little more in-depth.
 
 
 ## Part 3 - Coding the Modules
